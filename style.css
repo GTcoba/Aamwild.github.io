@@ -15,7 +15,6 @@ font-weight: 700;
 font-size: 64px;
 line-height: 77px;
 color: rgb(255, 255, 255);
+text-shadow: 2px 2px 4px #000000;
 }
-.h1{
-    text-shadow: 2px 2px 8px #FF0000;
-}
+
