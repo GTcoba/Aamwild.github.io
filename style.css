@@ -18,3 +18,11 @@ color: rgb(255, 255, 255);
 text-shadow: 2px 2px 4px #000000;
 }
 
+@media (max-width: 768px) {
+    .rounded-circle{
+        margin-top: -450px;
+    }
+    .display-4{
+        margin-top: -100px;
+    }
+}
